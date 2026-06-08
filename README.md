@@ -74,7 +74,7 @@ The system successfully recommends movies based on genre, popularity, and rating
 👉https://drive.google.com/file/d/13rIHMxYDymANgk5Ql6GrPlLVEpnZO9n_/view?usp=sharing
 
 ## 🔗 Connect with Me
-📌 LinkedIn: https://www.linkedin.com/in/your-profile-link  
+📌https://www.linkedin.com/posts/pallavi-sowreddi-421313368_horizonintern-machinelearning-python-ugcPost-7469797937951232001-GK6F/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFsry5kB2nChrqlIn88PU_V0-AGv5cZCQkQ
 
 ## 👩‍💻 Author
 Pallavi Sowreddi  
